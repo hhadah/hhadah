@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Hussain Hadah
-- 👀 I’m a post-doctoral fellow at Tulane University’s Department of Economics and Murphy Institute. I am interested in labor and development economics, and applied microeconimcs
+- 👋 Hi, I’m Hussain Hadah, a post-doctoral fellow in Economics at Tulane University.
+- 👀 Applied microeconomist researching labor, health, and education economics.
 - 📫 You can reach me at hhadah@tulane.edu
 
 <!---
