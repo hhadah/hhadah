@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hussain Hadah, a a lead research economist at the Research and Innovation for Social and Economic Inclusion (RISEI) Lab at Northwestern University.
+- 👋 Hi, I’m Hussain Hadah, a lead research economist at the Research and Innovation for Social and Economic Inclusion (RISEI) Lab at Northwestern University.
 - 👀 Applied microeconomist researching labor, health, and education economics.
 - 📫 You can reach me at hussainhadah@gmail.com
 
